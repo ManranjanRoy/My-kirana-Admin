@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "./static/js/main.a930f576.chunk.js",
-    "main.js.map": "./static/js/main.a930f576.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.eed44641.js",
-    "runtime-main.js.map": "./static/js/runtime-main.eed44641.js.map",
-    "static/css/2.984f6d3d.chunk.css": "./static/css/2.984f6d3d.chunk.css",
-    "static/js/2.a193dc24.chunk.js": "./static/js/2.a193dc24.chunk.js",
-    "static/js/2.a193dc24.chunk.js.map": "./static/js/2.a193dc24.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/2.984f6d3d.chunk.css.map": "./static/css/2.984f6d3d.chunk.css.map",
-    "static/js/2.a193dc24.chunk.js.LICENSE.txt": "./static/js/2.a193dc24.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.min.css": "./static/media/fontawesome-webfont.f691f37e.woff",
-    "static/media/google.a4fa9b6f.svg": "./static/media/google.a4fa9b6f.svg",
-    "static/media/logo.31df0ce8.svg": "./static/media/logo.31df0ce8.svg"
+    "main.js": "//My-kirana-Admin/static/js/main.f1feace0.chunk.js",
+    "main.js.map": "//My-kirana-Admin/static/js/main.f1feace0.chunk.js.map",
+    "runtime-main.js": "//My-kirana-Admin/static/js/runtime-main.6a4446ca.js",
+    "runtime-main.js.map": "//My-kirana-Admin/static/js/runtime-main.6a4446ca.js.map",
+    "static/css/2.476be0fd.chunk.css": "//My-kirana-Admin/static/css/2.476be0fd.chunk.css",
+    "static/js/2.a193dc24.chunk.js": "//My-kirana-Admin/static/js/2.a193dc24.chunk.js",
+    "static/js/2.a193dc24.chunk.js.map": "//My-kirana-Admin/static/js/2.a193dc24.chunk.js.map",
+    "index.html": "//My-kirana-Admin/index.html",
+    "static/css/2.476be0fd.chunk.css.map": "//My-kirana-Admin/static/css/2.476be0fd.chunk.css.map",
+    "static/js/2.a193dc24.chunk.js.LICENSE.txt": "//My-kirana-Admin/static/js/2.a193dc24.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "//My-kirana-Admin/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/google.a4fa9b6f.svg": "//My-kirana-Admin/static/media/google.a4fa9b6f.svg",
+    "static/media/logo.31df0ce8.svg": "//My-kirana-Admin/static/media/logo.31df0ce8.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.eed44641.js",
-    "static/css/2.984f6d3d.chunk.css",
+    "static/js/runtime-main.6a4446ca.js",
+    "static/css/2.476be0fd.chunk.css",
     "static/js/2.a193dc24.chunk.js",
-    "static/js/main.a930f576.chunk.js"
+    "static/js/main.f1feace0.chunk.js"
   ]
 }
